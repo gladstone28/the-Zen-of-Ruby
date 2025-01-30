@@ -48,3 +48,7 @@ https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/
 link to 14 of 20
 
 https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/string-interpolation
+
+link to 15 of 20
+
+https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/one-liners
