@@ -34,3 +34,8 @@ https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/
 lesson 10 of 20
 
 https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/the-right-tool-for-the-job
+
+
+lesson 11 of 20
+
+https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/up-the-down-staircase
