@@ -12,4 +12,6 @@ We know that methods in Ruby can return values, and we ask a method to return a 
 
 For instance, if you don’t tell a JavaScript function exactly what to return, it’ll return undefined. For Python, the default return value is None. But for Ruby, it’s something different: Ruby’s methods will return the result of the last evaluated expression.
 
+https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/implicit-return
+
 =end
