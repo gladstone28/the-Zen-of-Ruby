@@ -19,3 +19,18 @@ https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/
 lesson 5 of 20
 
 https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/when-and-then-the-case-statement
+
+
+
+lesson 8 of 20
+
+https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/implicit-return
+
+
+lesson 9 of 20
+
+https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/short-circuit-evaluation
+
+lesson 10 of 20
+
+https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/the-right-tool-for-the-job
