@@ -52,3 +52,7 @@ https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/
 link to 15 of 20
 
 https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/one-liners
+
+link to 16 of 20
+
+https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/the-ternary-operator
